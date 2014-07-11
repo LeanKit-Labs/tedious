@@ -5,7 +5,7 @@ todo
 npm-debug.log
 README.html
 generated
-lib/
+
 
 test/unit/perf-buffer.coffee
 
